@@ -31,6 +31,10 @@ class Server {      // Classe server
             if (s.equals("Fine")) {
                 quit = true;
             }
+            
+            
+            
+            
             int i;      // Contatore for
             for (i = 0; i < lunghezza; i++) {
                 msg = msg + s.charAt(i);
